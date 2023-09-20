@@ -1,21 +1,25 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Exemplos de Profile README</span>
-</h1>
-
-  Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
-
-
 ---
 
-# Nome Sobrenome
-Breve descrição sobre você.
+# Walace Alves
+Eu sou o Walace Alves. Uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programação. Tenho 53 anos e decidi começar na área da tecnologia por curiosidade, paixão e redirecionamento da minha carreira, já que sou portador de uma doença genética que afetou meus movimentos e miha fala, sem nenhum efeito cognitivo e desde então venho buscando agregar conhecimento participando de cursos e botcamps.
+
+## META 
+Minha meta é me tornar um analista edm inteligência em negócios, trabalhando com python e Power BI.
+
+### HABILIDADES
+|-------|-------|
+|Nível: | Básico |
+Python
+Git
+GitHub
+Estou me dedicando à Ciência de Dados por acreditar em seu potencial de não só tornar negócios lucrativos e sustentáveis.
+
+Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/WalaceAlves/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:walacealves.mvn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/walacealves/)/)
 
 
 ### Habilidades
